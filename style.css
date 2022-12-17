@@ -1,0 +1,156 @@
+    *{
+        margin: 0;
+        padding: 0;
+        font-family: 'Inter', sans-serif;
+    }
+
+    nav{
+        position: sticky;
+    width: auto;
+    height: 87px;
+    left: 0px;
+    top: 0px;
+    background: #000000;
+    }
+    .left-nav{
+    color: white;
+    margin-left:50px;
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+.left-nav, .right-nav{
+    display: inline-block;
+}
+.right-nav{
+    margin-left: 1001px;
+    margin-top: 10px;
+}
+.nav-items li{
+    display: inline-block;
+    margin: 5px;
+}
+#col-left h1{
+    margin-top: 150px;
+    margin-left: 10px;
+    }
+#col-left p{
+    margin-top: 12px;
+    margin-left: 10px;
+}
+#button{
+    color: white;
+    background-color: black;
+    margin-left: 10px;
+    width: 200px;
+    height: 50px;
+    
+    
+}
+#col-right img{
+    display:flex ;
+    width: 500px;
+    height: 500px;
+    margin-left: 1000px;
+    margin-top: -190px;
+}
+#cristiano h1{
+    margin-top: 70px;
+}
+
+
+.line1  img{
+    
+    flex-wrap: wrap;
+    margin-top: 20px;
+    width: 500px;
+    height: 500px;
+    justify-content: space-evenly;
+    border-radius: 5px;
+    
+}
+.line2 img{
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 500px;
+    height: 500px;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* #rohit1,#rohit2,#rohit3{
+    
+} */
+/* #rohit1{
+    margin-top: 300px;
+    margin-left:50px;
+    
+    
+}
+#rohit2{
+    margin-top: -499px;
+    margin-left: 500px;
+}
+#rohit3{
+    margin-top: -499px;
+    margin-right: 800px;
+}
+
+#rohit4{
+    margin-left: 50px;
+}
+#rohit5{
+    margin-left: 500px;
+}
+#rohit6{
+   
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .Company-logo{
+    font-size: 50px;
+
+    
+}
+.left-nav, .right-nav{
+    display: inline-block;
+}
+.right-nav{
+    margin-left: 1001px;
+}
+.nav-items li{
+    display: inline-block;
+    margin: 5px
+    ;
+} */
